@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anthony Chian</h1>
 <h3 align="center">A full stack engineer who enjoys web development and clean UI</h3>
-<img align="right" alt="coding" width="257" src="https://i.redd.it/jzugmg96wyg81.gif">
+<img align="right" alt="coding" width="250" src="https://i.redd.it/jzugmg96wyg81.gif">
 
 - 🔭 I’m currently working on [Lost Ark Build Simulator](https://lost-ark-skills.herokuapp.com/)
 
