@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Lost Ark Build Simulator](https://lost-ark-skills.herokuapp.com/)
 
-- 🌱 I’m currently learning **Angular, Typescript**
-
 - 🔭 I’m currently working on [Spotify Music Visualizer](https://spotify-api-react-app.herokuapp.com/)
 
 - 🔭 I’m currently working on [Personal Website](https://anthonychian.herokuapp.com/)
+
+- 🌱 I’m currently learning **Angular, Typescript**
 
 - 👨‍💻 All of my projects are available at [https://anthonychian.herokuapp.com/](https://anthonychian.herokuapp.com/)
 
