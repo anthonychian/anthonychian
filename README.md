@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on [Spotify Music Visualizer](https://github.com/anthonychian/spotifyapp)
 
-- 🔭 I’m currently working on [Personal Website](https://anthonychian.herokuapp.com/)
-
 - 👨‍💻 All of my projects are available at [https://anthonychian.herokuapp.com/](https://anthonychian.herokuapp.com/)
 
 - 🌱 I’m currently learning **Angular, Typescript**
