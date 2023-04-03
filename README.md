@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available on my [Personal Website](https://anthonychian.github.io/portfolio/)
 
-- 🌱 I’m currently learning **Angular, Typescript**
+- 🌱 I’m currently learning **Firebase, Angular, Typescript**
 
 - 💬 Ask me about **React, Redux, Javascript**
 
