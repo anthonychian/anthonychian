@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Spotify Music Visualizer](https://github.com/anthonychian/spotifyapp)
 
-- 👨‍💻 All of my projects are available on my [Personal Website](https://anthonychian.github.io/portfolio/)
+- 👨‍💻 All of my projects are available on my [Personal Website](https://anthonychian.vercel.app/)
 
 - 🌱 I’m currently learning **Firebase, Angular, Typescript**
 
