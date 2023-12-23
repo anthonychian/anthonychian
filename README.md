@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available on my [Personal Website](https://anthonychian.vercel.app/)
 
-- 🌱 I’m currently learning **Firebase, Angular, Typescript**
+- 🌱 I’m currently learning **React Native, Three.js, Typescript**
 
 - 💬 Ask me about **React, Redux, Javascript**
 
