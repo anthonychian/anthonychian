@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anthony Chian</h1>
 <h3 align="center">A full stack engineer who enjoys web development and clean UI</h3>
 
-- 🔭 I’m currently working on [Spotify Music Visualizer](https://github.com/anthonychian/spotifyapp)
+- 🔭 I’m currently working on [Shadowverse Client](https://github.com/anthonychian/shadowverse-client)
 
 - 👨‍💻 All of my projects are available on my [Personal Website](https://anthonychian.vercel.app/)
 
