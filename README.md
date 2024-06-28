@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available on my [Personal Website](https://anthonychian.vercel.app/)
 
-- 🌱 I’m currently learning **React Native, Three.js, Typescript**
+- 🌱 I’m currently learning **Angular, Typescript**
 
 - 💬 Ask me about **React, Redux, Javascript**
 
